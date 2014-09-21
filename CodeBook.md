@@ -1,9 +1,10 @@
 #Variables in tidy data set.
 
-subject 	- An identifier of the subject who carried out the experiment
-activity 	- Activities performed by wearing the smart phone on the wrist
+##subject - An identifier of the subject who carried out the experiment
 
-Mean and standard deviations derived from the main dataset. 
+##activity - Activities performed by wearing the smart phone on the wrist
+
+##Mean and standard deviations derived from the main dataset. 
 
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
